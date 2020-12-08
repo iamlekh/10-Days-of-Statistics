@@ -1,11 +1,11 @@
 # 10-Days-of-Statistics
 
 
-#!/bin/bash
-
-#File: tree-md
-
-tree=$(tree -tf --noreport -I '*~' --charset ascii $1 |
-       sed -e 's/| \+/  /g' -e 's/[|`]-\+/ */g' -e 's:\(* \)\(\(.*/\)\([^/]\+\)\):\1[\4](\2):g')
-
-printf "# Project tree\n\n${tree}"
+├── Day 0
+│   ├── Mean_Median_Mode.py
+│   └── Weighted_Mean.py
+├── Day 1
+│   ├── Interquartile_Range.py
+│   ├── Quartiles.py
+│   └── Standard_Deviation.py
+└── README.md
