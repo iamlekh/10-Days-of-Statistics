@@ -1,6 +1,6 @@
 # 10-Days-of-Statistics
 
-
+```
 ├── Day 0
 │   ├── Mean_Median_Mode.py
 │   └── Weighted_Mean.py
@@ -9,3 +9,4 @@
 │   ├── Quartiles.py
 │   └── Standard_Deviation.py
 └── README.md
+```
