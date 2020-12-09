@@ -8,5 +8,10 @@
 │   ├── Interquartile_Range.py
 │   ├── Quartiles.py
 │   └── Standard_Deviation.py
+├── Day 2
+│   ├── Basic_Probability.py
+│   ├── Compound_Event_Probability.py
+│   └── More_Dice.py
 └── README.md
+
 ```
