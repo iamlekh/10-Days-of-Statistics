@@ -12,6 +12,10 @@
 │   ├── Basic_Probability.py
 │   ├── Compound_Event_Probability.py
 │   └── More_Dice.py
+├── Day 3
+│   ├── Cards_of_the_Same_Suit.py
+│   ├── Conditional_Probability.py
+│   └── Drawing_Marbles.py
 └── README.md
 
 ```
